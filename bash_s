@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker exec -it -u oslab -w /home/oslab/lab5 09f971 /bin/bash
